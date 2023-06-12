@@ -59,6 +59,7 @@ _Dates and locations are tentative_
 
 ## Webinars
 * Friday July 7 at 1pm ET | Subdivisions and Crossroads: Identifying Communities in Data Citation Networks, Sara Lafia 
+* [Register here](https://us02web.zoom.us/meeting/register/tZ0vf--prDosGd0V-fSkLP6eGnGamuYPt28G)
 
 Abstract: Archives that provide access to high-quality research data offer an ideal setting to study the community impact of data sharing. In this talk, I will describe the data citation network at ICPSR – a social science data archive at the University of Michigan – which reflects patterns of data reuse in academic literature. I have detected 41 research communities that use the same scientific datasets, which I characterize as disciplinary "subdivisions" or integrative "crossroads" connecting research areas. I show how spatial perspectives on data use offer insights into scholarly communication processes, such as the organization of scientific communities.
 
