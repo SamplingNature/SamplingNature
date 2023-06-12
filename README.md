@@ -46,7 +46,7 @@ _Dates and locations are tentative_
 
 2. Water, Rivers, Coasts, and Oceans March 2022 - Moorea
 3. Food and Health May 8-9, 2023 - Arizona
-4. Energy and Urbanization December 6-7 - New York 
+4. Energy and Urbanization December 6-7, 2023 - New York 
 5. Nature - Biodiversity and Climate Early 2024 - Washington D.C
 
 
@@ -56,3 +56,15 @@ _Dates and locations are tentative_
 * Policy
 * Uncurated Research Collections
 * Training Materials
+
+## Webinars
+* Friday July 7 at 1pm ET 
+** Title: Subdivisions and Crossroads: Identifying Communities in Data Citation Networks, Sara Lafia 
+
+** Abstract: Archives that provide access to high-quality research data offer an ideal setting to study the community impact of data sharing. In this talk, I will describe the data citation network at ICPSR – a social science data archive at the University of Michigan – which reflects patterns of data reuse in academic literature. I have detected 41 research communities that use the same scientific datasets, which I characterize as disciplinary "subdivisions" or integrative "crossroads" connecting research areas. I show how spatial perspectives on data use offer insights into scholarly communication processes, such as the organization of scientific communities.
+
+** Bio: Sara Lafia is a Research Fellow in the Inter-university Consortium for Political and Social Research (ICPSR) at the University of Michigan. Her research is supported by an NSF project, Developing Evidence-based Data Sharing and Archiving Policies, in which she analyzes curation activities, trains models to detect informal data citations in academic literature, and develops metrics to track the impact of data curation. She holds a Ph.D. in Geography from UC Santa Barbara.
+
+** Website: https://saralafia.github.io/
+
+** Project: https://datacurationimpact.org/
