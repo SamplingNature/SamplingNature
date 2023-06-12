@@ -1,5 +1,4 @@
-# 
-Sampling Nature Research Coordination Network
+# Sampling Nature Research Coordination Network
 
 
 [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2129268)
@@ -11,8 +10,7 @@ Material samples are the most basic form of data about the natural world. Their 
 Through a series of thematic workshops and regular virtual events, Sampling Nature will build a community of collaborative researchers to exploit the potential of an accessible, integrated corpus of material sample data. The RCN will deliver an extensible, domain neutral, community-driven metadata standard, with recommendations for its short- and long-term governance; policy recommendations around the collection, transport, storage, preservation, and sharing of material samples; training materials covering best practices for sample identification and metadata; an innovative social media campaign to communicate the importance of material samples in science, society, and sustainability. Sampling Nature brings together a new and interdisciplinary group of PIs that will engage researchers from multiple NSF directorates, federal agencies, Indigenous groups, museums, publishers, and infrastructure.
 
 
-## 
-Principal Investigators
+## Principal Investigators
 
 
 
@@ -22,8 +20,7 @@ Principal Investigators
 * Sarah Kansa, Alexandria Archive Institute
 * Ramona Walls, University of Arizona
 
-## 
-Steering Committee Members
+## Steering Committee Members
 
 * Levent Atici, University of Nevada, Las Vegas
 * Merc Fox, CODATA at UA
@@ -43,7 +40,7 @@ Steering Committee Members
 ## Join the [Sampling Nature Listserv](https://groups.google.com/g/sampling-nature) to be part of the community!
 
 
-### Workshop timeline
+## Workshop timeline
 
 _Dates and locations are tentative_
 
@@ -53,7 +50,7 @@ _Dates and locations are tentative_
 5. Nature - Biodiversity and Climate Early 2024 - Washington D.C
 
 
-### Working Group Themes
+## Working Group Themes
 
 * Standards
 * Policy
