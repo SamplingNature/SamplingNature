@@ -52,7 +52,7 @@ _Dates and locations are tentative_
 
 ## Working Group Themes
 
-* Standards
+* Metadata
 * Policy
 * Uncurated Research Collections
 * Training Materials
