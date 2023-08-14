@@ -70,7 +70,9 @@ Bio: Lindsay is trained as a multidisciplinary scientist with an education and r
 
 
 ### Friday, July 7 at 1pm ET | Subdivisions and Crossroads: Identifying Communities in Data Citation Networks, Sara Lafia 
-* [Recording](https://youtu.be/1B3A6n03VG8)
+
+[Recording](https://youtu.be/1B3A6n03VG8)
+
 Abstract: Archives that provide access to high-quality research data offer an ideal setting to study the community impact of data sharing. In this talk, I will describe an analysis of the data citation network available through ICPSR – a social science data archive at the University of Michigan – which reflects patterns of data reuse in academic literature in research communities that use the same scientific datasets. These communities are characterized as disciplinary "subdivisions" or integrative "crossroads" that connect research areas. I show how data citation allows us to understand scholarly communication processes, such as the organization of scientific communities, and will discuss implications for the citation of samples.
 
 Bio: Sara Lafia is a Research Fellow in the Inter-university Consortium for Political and Social Research (ICPSR) at the University of Michigan. Her research is supported by an NSF project, Developing Evidence-based Data Sharing and Archiving Policies, in which she analyzes curation activities, trains models to detect informal data citations in academic literature, and develops metrics to track the impact of data curation. She holds a Ph.D. in Geography from UC Santa Barbara.
