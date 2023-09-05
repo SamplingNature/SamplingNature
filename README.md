@@ -20,7 +20,7 @@ Through a series of thematic workshops and regular virtual events, Sampling Natu
 * Sarah Kansa, Alexandria Archive Institute
 * Ramona Walls, University of Arizona
 
-## Steering Committee Members
+## Advisory Group Members
 
 * Levent Atici, University of Nevada, Las Vegas
 * Merc Fox, CODATA at UA
@@ -33,7 +33,7 @@ Through a series of thematic workshops and regular virtual events, Sampling Natu
 * Gil Nelson, iDigBio/University of Florida
 * Lindsay Powers, US Geological Survey
 * Denne Reed, University of Texas at Austin
-* Ken Rubin, SOEST/University Hawaii
+* Kenna Rubin, SOEST/University Hawaii
 * Andrea Thomer, University of Arizona
 
 
