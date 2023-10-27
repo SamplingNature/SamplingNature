@@ -1,4 +1,4 @@
-# Sampling Nature Research Coordination Network
+
 
 
 [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2129268)
@@ -9,32 +9,6 @@ Material samples are the most basic form of data about the natural world. Their 
 
 Through a series of thematic workshops and regular virtual events, Sampling Nature will build a community of collaborative researchers to exploit the potential of an accessible, integrated corpus of material sample data. The RCN will deliver an extensible, domain neutral, community-driven metadata standard, with recommendations for its short- and long-term governance; policy recommendations around the collection, transport, storage, preservation, and sharing of material samples; training materials covering best practices for sample identification and metadata; an innovative social media campaign to communicate the importance of material samples in science, society, and sustainability. Sampling Nature brings together a new and interdisciplinary group of PIs that will engage researchers from multiple NSF directorates, federal agencies, Indigenous groups, museums, publishers, and infrastructure.
 
-
-## Principal Investigators
-
-
-
-* Kerstin Lehnert, Columbia University
-* Jane Anderson, New York University
-* Neil Davies, The Regents of the University of California, Berkeley
-* Sarah Kansa, Alexandria Archive Institute
-* Ramona Walls, University of Arizona
-
-## Advisory Group Members
-
-* Levent Atici, University of Nevada, Las Vegas
-* Merc Fox, CODATA at UA
-* Nico Franz, Arizona State University
-* Maui Hudson, University of Waikato
-* John Kunze, California Digital Library
-* Christine Laney, NEON
-* Michelle LeFebvre, Florida Museum of Natural History, University of Florida
-* Chris Meyer, Smithsonian/NMNH
-* Gil Nelson, iDigBio/University of Florida
-* Lindsay Powers, US Geological Survey
-* Denne Reed, University of Texas at Austin
-* Kenna Rubin, SOEST/University Hawaii
-* Andrea Thomer, University of Arizona
 
 
 ## Join the [Sampling Nature Listserv](https://groups.google.com/g/sampling-nature) to be part of the community!
