@@ -51,6 +51,7 @@ header_pages:
    - about.md
    - events.md
    - team.md
+   - working-groups.md
 
 # Set to `true` to show excerpts on the homepage.
 #
