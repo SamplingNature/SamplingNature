@@ -11,7 +11,7 @@ permalink: /events/
 
 # Webinars 
 ## Friday, November 3 at 1pm ET | Small identifiers with big impacts: examples from archaeological fieldwork, Sarah Kansa, Open Context
-Register in advance for this meeting
+[Register in advance for this meeting](https://us02web.zoom.us/meeting/register/tZApce2qqzsrHtZM0_5nCSuDotEDEUtGWxVt#/registration)
 
 Abstract: The importance of identifiers is difficult to convey to many researchers that lack formal training in databases or data management. While under-appreciated, identifier practices can have big downstream impacts on data re-use.
 
