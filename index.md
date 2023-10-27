@@ -6,6 +6,17 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+carousels:
+  - images: 
+    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/image2.jpg
+    - image: /uploads/slider/image3.jpg
+    - image: /uploads/slider/image4.jpg
+  - images: 
+    - image: /uploads/slider/image5.jpg
+    - image: /uploads/slider/image6.jpg
+    - image: /uploads/slider/image7.jpg
+    - image: /uploads/slider/image8.jpg
 ---
 Join the Sampling Nature Listserv to be part of the community!
 Workshop timeline
