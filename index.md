@@ -19,7 +19,9 @@ FAIR samples:
 - Makes previously impossible connections between diverse and disparate sample-based observations. 
 
 # Join the Sampling Nature Listserv to be part of the community!
+The Sampling Nature Research Coordination Network (RCN) is creating connections across the natural history value chain that samples nature at field sites, labs, repositories, and museums through thematic workshops and virtual events to exploit the potential of an accessible, integrated corpus of material sample data.
 
+Connect with us via [Google Group](https://groups.google.com/g/sampling-nature/c/RzJSukU0FKE), [Slack](http://bit.ly/SamplingNatureSlack) or [LinkedIn](https://www.linkedin.com/groups/14279282/). 
 
 # News & Events 
 ## Friday, November 3 at 1pm ET | Small identifiers with big impacts: examples from archaeological fieldwork, Sarah Kansa, Open Context
