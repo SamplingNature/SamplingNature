@@ -1,5 +1,6 @@
 # Where things are
 theme: minima
+author: Sampling Nature RCN | Funded by NSF Award # 2129268
 source              : .
 destination         : ./_site
 collections_dir     : .
