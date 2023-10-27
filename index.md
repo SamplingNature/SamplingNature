@@ -9,7 +9,17 @@ layout: base
 ---
 ![Untitled design](https://github.com/SamplingNature/SamplingNature.github.io/assets/2915555/9b202300-627f-4344-98e5-971da1a138e1)
 
-Join the Sampling Nature Listserv to be part of the community!
+# Science today demands FAIR samples 
+The Sampling Nature Research Coordination Network supports the multi-disciplinary use of samples requires consistent approaches to sample documentation, sample identification, sample access policies, and sample citation. 
+
+FAIR samples:
+- Ensures transparency and reproducibility of research 
+- Enables and advances discovery, access, and reuse of material samples generated and studied in cross-disciplinary basic and applied scientific research.
+- Supports the integration of material samples into modern-day digital and data-driven research.
+- Makes previously impossible connections between diverse and disparate sample-based observations. 
+
+# Join the Sampling Nature Listserv to be part of the community!
+
 
 # News & Events 
 ## Friday, November 3 at 1pm ET | Small identifiers with big impacts: examples from archaeological fieldwork, Sarah Kansa, Open Context
