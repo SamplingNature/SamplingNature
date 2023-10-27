@@ -4,13 +4,6 @@
 [NSF Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2129268)
 
 
-Material samples are the most basic form of data about the natural world. Their collection and study are fundamental for solving sustainability goals. Unfortunately, harnessing existing samples and sample-based data for future science is nearly impossible, because they are often not Findable, Accessible, Interoperable, and Reusable (FAIR). A vast number of scientific material samples has already and continues to be collected, yet most samples remain unknown and inaccessible to researchers at large. The complex landscape of intellectual, technical, social, legal, and regulatory issues surrounding material and data sharing often results in insurmountable barriers to making them FAIR. Overcoming these barriers demands not only robust transdisciplinary infrastructure, but also community-driven metadata standards and effective data policies, combined with training and outreach to support adoption. The Sampling Nature Research Coordination Network (RCN) will maximize the natural history value chain that samples nature at field sites, labs, repositories, and museums; processes those samples for scientific analyses; and stores the resulting materials and derived data in diverse and distributed databases and repositories.
-
-
-Through a series of thematic workshops and regular virtual events, Sampling Nature will build a community of collaborative researchers to exploit the potential of an accessible, integrated corpus of material sample data. The RCN will deliver an extensible, domain neutral, community-driven metadata standard, with recommendations for its short- and long-term governance; policy recommendations around the collection, transport, storage, preservation, and sharing of material samples; training materials covering best practices for sample identification and metadata; an innovative social media campaign to communicate the importance of material samples in science, society, and sustainability. Sampling Nature brings together a new and interdisciplinary group of PIs that will engage researchers from multiple NSF directorates, federal agencies, Indigenous groups, museums, publishers, and infrastructure.
-
-
-
 ## Join the [Sampling Nature Listserv](https://groups.google.com/g/sampling-nature) to be part of the community!
 
 
