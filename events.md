@@ -3,6 +3,13 @@ layout: page
 title: Events
 permalink: /events/
 ---
+# Workshops
+- Water, Rivers, Coasts, and Oceans March 2022 - Moorea
+- Food and Health May 8-9, 2023 - Arizona
+- Energy and Urbanization December 6-7, 2023 - New York
+- Nature - Biodiversity and Climate Early 2024 - Washington D.C
+
+# Webinars 
 ## Friday, November 3 at 1pm ET | Small identifiers with big impacts: examples from archaeological fieldwork, Sarah Kansa, Open Context
 Register in advance for this meeting
 
