@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Sampling Nature Rsearch Coordination Network supports the cross-domain physical specimen curators
+  Sampling Nature Research Coordination Network supports the cross-domain physical specimen curation community
 
 # Build settings
 
