@@ -18,7 +18,7 @@ Join the Sampling Nature Listserv to be part of the community!
 
 **Abstract:** The importance of identifiers is difficult to convey to many researchers that lack formal training in databases or data management. While under-appreciated, identifier practices can have big downstream impacts on data re-use. In this webinar, we will discuss common identifier practices in the context of an archaeological field project. Different archaeological artifacts, ecofacts (animal or plant remains associated with past human behavior), architectural features, and stratigraphic deposits are all understood in relation to one another. Such relationships inform the understanding of “context”, which is a core interpretive concept in archaeology. Naming and identifying the locations, objects, and other things involved in these contextual relationships make identifier practices critically important in archaeology.
 
-**Bio: **Sarah Kansa is Executive Director of the Alexandria Archive Institute, a California non-profit organization that develops Open Context, a data publishing service for archaeology and cultural heritage. 
+**Bio:** Sarah Kansa is Executive Director of the Alexandria Archive Institute, a California non-profit organization that develops Open Context, a data publishing service for archaeology and cultural heritage. 
 
 
 
