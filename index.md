@@ -5,17 +5,11 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: base
 ---
 Join the Sampling Nature Listserv to be part of the community!
-Workshop timeline
-Dates and locations are tentative
 
-Water, Rivers, Coasts, and Oceans March 2022 - Moorea
-Food and Health May 8-9, 2023 - Arizona
-Energy and Urbanization December 6-7, 2023 - New York
-Nature - Biodiversity and Climate Early 2024 - Washington D.C
-Working Group Themes
+# Working Group Themes
 Metadata
 Policy
 Uncurated Research Collections
