@@ -10,15 +10,15 @@ layout: base
 ![Untitled design](https://github.com/SamplingNature/SamplingNature.github.io/assets/2915555/9b202300-627f-4344-98e5-971da1a138e1)
 
 # Science today demands FAIR samples 
-The Sampling Nature Research Coordination Network supports the multi-disciplinary use of samples requires consistent approaches to sample documentation, sample identification, sample access policies, and sample citation. 
+The Sampling Nature Research Coordination Network supports the multi-disciplinary use of samples. This requires consistent approaches to sample documentation, sample identification, sample access policies, and sample citation. 
 
 FAIR samples:
-- Ensures transparency and reproducibility of research 
-- Enables and advances discovery, access, and reuse of material samples generated and studied in cross-disciplinary basic and applied scientific research.
-- Supports the integration of material samples into modern-day digital and data-driven research.
-- Makes previously impossible connections between diverse and disparate sample-based observations. 
+- Ensure transparency and reproducibility of research 
+- Enable and advance discovery, access, and reuse of material samples generated and studied in cross-disciplinary basic and applied scientific research.
+- Support the integration of material samples into modern-day digital and data-driven research.
+- Make previously impossible connections between diverse and disparate sample-based observations. 
 
-# Join the Sampling Nature Listserv to be part of the community!
+# Join the Sampling Nature Community!
 The Sampling Nature Research Coordination Network (RCN) is creating connections across the natural history value chain that samples nature at field sites, labs, repositories, and museums through thematic workshops and virtual events to exploit the potential of an accessible, integrated corpus of material sample data.
 
 Connect with us via [Google Group](https://groups.google.com/g/sampling-nature/c/RzJSukU0FKE), [Slack](http://bit.ly/SamplingNatureSlack) or [LinkedIn](https://www.linkedin.com/groups/14279282/). 
