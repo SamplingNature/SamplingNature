@@ -8,9 +8,9 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 ![](images/Green and White Minimalist Photo Collage Banner.png)
 
--   [Mo'orea, French Polynesia \| March 21-22, 2022]
+-   [Mo'orea, French Polynesia \| March 21-22, 2022](Mo'orea, French Polynesia \| March 21-22, 2022)
 
--   [Tucson, Arizona \| May 8-9, 2023]
+-   [Tucson, Arizona \| May 8-9, 2023](Tucson, Arizona \| May 8-9, 2023)
 
 -   [New York City, NY \| December 6-7, 2023]
 
@@ -26,7 +26,7 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 **Field Trip - Island Sampling Day**
 
-![](images/3A097FCD-763E-47BD-AB4A-FB5D324271DA_1_105_c.jpeg){width="478"}
+![](images/3A097FCD-763E-47BD-AB4A-FB5D324271DA_1_105_c.jpeg)
 
 ## Tucson, Arizona \| May 8-9, 2023 
 
