@@ -8,17 +8,29 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 ![](images/Green and White Minimalist Photo Collage Banner.png)
 
-## Water, Rivers, Coasts, and Oceans \| March 21-22, 2022 - Moorea, French Polynesia (Co-located with the Genomic Standards Consortium and Island Sampling Day)
+-   [Mo'orea, French Polynesia \| March 21-22, 2022]
+
+-   [Tucson, Arizona \| May 8-9, 2023]
+
+-   [New York City, NY \| December 6-7, 2023]
+
+-   [Washington, D.C. \| May 29-31, 2024 Washington, D.C]
+
+-   [Other Meetings]
+
+## Mo'orea, French Polynesia \| March 21-22, 2022
+
+**Theme:** Water, Rivers, Coasts, and Oceans \|(Co-located with the Genomic Standards Consortium and Island Sampling Day)
 
 **Description:** Our first workshop with the Waters theme ("Waters: Rivers, Coasts, and Oceans") was timed to coincide with the 22nd annual meeting of the Genomic Standards Consortium to take advantage of participants from the biodiversity genomics community, who would already be present at that meeting. GSC 22 was co-hosted by UC Berkeley’s Gump Station (a Coral Reef LTER Site) and the Centre for Island Research and Environmental Observatory (CRIOBE, one of France’s preeminent laboratories for the study of coral reef ecosystems). The interdisciplinary themes of GSC 22 – Biodiversity, Climate Change, and Human Health – made it an ideal venue for promoting our RCN activities. Sampling Nature co-hosted GSC’s “Island Sampling Day” – a one day, post-conference activity to collect soil, sediment, and water samples along a transect following the 'Ōpūnohu River and Bay. The sampling process will be documented in a joint GSC/Sampling Nature methods publication that describes standard practices and challenges in sample collection for interdisciplinary reuse. Sampling Nature also contributed a presentation about the RCN and the iSamples CI project at the GSC 22.
 
 **Field Trip - Island Sampling Day**
 
-![](images/Screenshot 2024-07-13 at 3.56.58 PM.png){width="467"}
-
 ![](images/3A097FCD-763E-47BD-AB4A-FB5D324271DA_1_105_c.jpeg){width="478"}
 
-## Food and Health \| May 8-9, 2023 - Tucson, Arizona
+## Tucson, Arizona \| May 8-9, 2023 
+
+**Theme:** Food and Health
 
 ![](images/IMG_6561.JPG)
 
@@ -30,7 +42,9 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 ![](images/IMG_6568.jpeg)
 
-## Sampling Nature: Samples with Consequences Workshop \| December 6-7, 2023 - New York City, New York
+## New York City, NY \| December 6-7, 2023
+
+**Theme:** Sampling Nature: Samples with Consequences Workshop - Exploring the Social, Ethical and Legal Dimensions of Samples
 
 ![](images/RCN_workshop.jpeg)
 
@@ -42,7 +56,9 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 ![](images/IMG_8958.jpeg)
 
-## Sampling Nature for 'Omic Observatories in an AI World \| May 29-31, 2024 Washington, D.C
+## Washington, D.C. \| May 29-31, 2024 Washington, D.C
+
+**Theme:** Sampling Nature for 'Omic Observatories in an AI World - Examining what's next for sample management
 
 **Description:** The 4th in the Sampling Nature Workshop series was entitled "Sampling Nature for 'Omic Observatories in an AI World" and was a collaboration between Sampling Nature, iSamples, and Omic BON to explore how to reuse data and samples to improve biodiversity observations, combine them with other data types, and contribute to global models. Omic observations are tied to material samples, and tracking the metadata and context of those samples is critical to data quality and reuse.
 
@@ -52,15 +68,17 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 ![](images/IMG_4591.png)
 
-## Additional Workshops and Meetings
+## Other Meetings
+
+In addition to the four workshops, the team held opportunistic meetings.
 
 ### Team Planning Workshop (November 2022, New York) and Field Trip to Tree Ring Laboratory
 
 ![](images/IMG_5066.JPG)
 
-**Description:** We co-hosted an in person workshop at Lamont Doherty Earth Institute in November 2022 with the iSamples Project. During this workshop the iSamples team gave an update on the platform development, planned next steps and spent some time identifying outreach opportunities. This led to a new collaboration between the
+**Description:** We co-hosted an in person workshop at Lamont Doherty Earth Institute in November 2022 with the iSamples Project. During this workshop the iSamples team gave an update on the platform development, planned next steps and spent some time identifying outreach opportunities. This led to a new collaboration between the IEDA and the Tree Ring Laboratory.
 
-### Team planning workshop (September 2023, Oakland, CA)
+### Team Planning Workshop (September 2023, Oakland, CA)
 
 **Description:** “The iPlaces Workshop”, hosted at the California Digital Library in Oakland, CA, brought together an interdisciplinary team from the iSamples, Sampling Nature, and FAIR Island projects to develop the framework for iPlaces — a visionary platform for place-based open science. Based on feedback and learning from the Sampling Nature RCN, this meeting focused on the sample infrastructure needs for connecting samples back to the places they originate. The meeting also focused on connecting the required legal and social documentation needed to prove ethical sampling.
 
