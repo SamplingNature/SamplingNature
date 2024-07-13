@@ -24,9 +24,12 @@ The Sampling Nature Research Coordination Network (RCN) is creating connections 
 Connect with us via [Google Group](https://groups.google.com/g/sampling-nature/c/RzJSukU0FKE), [Slack](http://bit.ly/SamplingNatureSlack) or [LinkedIn](https://www.linkedin.com/groups/14279282/). 
 
 # News & Events 
+## 4th Workshop—May 29-31, 2024 | National Museum of Natural History, Washington, D.C. 
+**Abstract:** The Sampling Nature Research Coordination Network (RCN) creates connections across the natural history value chain that samples nature at field sites, labs, repositories, and museums through thematic workshops and virtual events to exploit the potential of an accessible, integrated corpus of material sample data. 
+
+This workshop is the 4th in the Sampling Nature series and is a collaboration between Sampling Nature, iSamples, and Omic BON to explore how to reuse data and samples to improve biodiversity observations, combine them with other data types, and contribute to global models. Omic observations are tied to material samples, and tracking the metadata and context of those samples is critical to data quality and reuse.
+
 ## Friday, November 3 at 1pm ET | Small identifiers with big impacts: examples from archaeological fieldwork, Sarah Kansa, Open Context
-[Register in advance for this meeting
-](https://us02web.zoom.us/meeting/register/tZApce2qqzsrHtZM0_5nCSuDotEDEUtGWxVt#/registration)
 
 **Abstract:** The importance of identifiers is difficult to convey to many researchers that lack formal training in databases or data management. While under-appreciated, identifier practices can have big downstream impacts on data re-use. In this webinar, we will discuss common identifier practices in the context of an archaeological field project. Different archaeological artifacts, ecofacts (animal or plant remains associated with past human behavior), architectural features, and stratigraphic deposits are all understood in relation to one another. Such relationships inform the understanding of “context”, which is a core interpretive concept in archaeology. Naming and identifying the locations, objects, and other things involved in these contextual relationships make identifier practices critically important in archaeology.
 
