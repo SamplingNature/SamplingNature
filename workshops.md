@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RCN Workshops
+title: Workshops
 permalink: /Workshops/
 ---
 
