@@ -3,14 +3,18 @@ layout: page
 title: Events
 permalink: /events/
 ---
-# Workshops
-- Water, Rivers, Coasts, and Oceans March 2022 - Moorea
-- Food and Health May 8-9, 2023 - Arizona
-- Energy and Urbanization December 6-7, 2023 - New York
-- Nature - Biodiversity and Climate Early 2024 - Washington D.C
 
-# Webinars 
-## Friday, November 3 at 1pm ET | Small identifiers with big impacts: examples from archaeological fieldwork, Sarah Kansa, Open Context
+# Workshops
+
+-   Water, Rivers, Coasts, and Oceans March 2022 - Moorea, French Polynesia
+-   Food and Health May 8-9, 2023 - Tucson, Arizona
+-   Energy and Urbanization December 6-7, 2023 - New York City, New York
+-   Nature - Biodiversity and Climate Early 2024 - Washington, D.C
+
+# Webinars
+
+## Friday, November 3 at 1pm ET \| Small identifiers with big impacts: examples from archaeological fieldwork, Sarah Kansa, Open Context
+
 [Register in advance for this meeting](https://us02web.zoom.us/meeting/register/tZApce2qqzsrHtZM0_5nCSuDotEDEUtGWxVt#/registration)
 
 Abstract: The importance of identifiers is difficult to convey to many researchers that lack formal training in databases or data management. While under-appreciated, identifier practices can have big downstream impacts on data re-use.
@@ -23,7 +27,8 @@ We will discuss some of our attempts to find pragmatic improvements to streamlin
 
 Bio: Sarah Kansa is Executive Director of the Alexandria Archive Institute, a California non-profit organization that develops Open Context, a data publishing service for archaeology and cultural heritage. Sarah collaborates on projects that advance data publishing and data literacy in various archaeological and cultural heritage communities. She has a Ph.D. in archaeology (University of Edinburgh) and has spent more than 25 years conducting zooarchaeological research at sites in the Middle East and Europe. She served as Vice President of the International Council for Archaeozoology (ICAZ) from 2014-2018 and President from 2018-2023. Sarah is chair of the Digital Technology Committee for the Archaeological Institute of America (AIA) and served on the Publications Committee for the Society for American Archaeology (SAA) and the American Society of Overseas Research (ASOR). She is also the series co-editor for Archaeobiology (Lockwood Press) and Executive Editor of Open Context. She participates on several grant-funded projects, most recently as a co-director on Advancing FAIR+CARE Practices in Cultural Heritage, funded by the IMLS.
 
-## Friday, September 8 at 1pm ET | Connecting samples to the research ecosystem through documentation and discovery tools, Lindsay Powers, USGS
+## Friday, September 8 at 1pm ET \| Connecting samples to the research ecosystem through documentation and discovery tools, Lindsay Powers, USGS
+
 Recording
 
 Abstract: Physical samples are often expensive and irreplaceable assets foundational to understanding the universe and its processes, and they should be preserved and made available for ongoing or new research. For these assets to be useful in this capacity, they must have descriptive documentation and be readily discoverable to interdisciplinary users. Persistent unique identifiers (PIDs) for people, organizations, data, publications, scientific collections, and samples, greatly facilitate the discovery of relevant physical samples for new research by connecting samples to all elements of the research ecosystem.
@@ -32,7 +37,8 @@ The U.S. Geological Survey has improved tools to better document scientific coll
 
 Bio: Lindsay is trained as a multidisciplinary scientist with an education and research experience in aquatic ecology, population genetics, limnology, and paleoclimatology. Lindsay completed her B.A at Macalester College, her M.S. at University of Montana, and her Ph.D. at the University of Minnesota Twin Cities. Her current work at the U.S. Geological Survey is primarily concerned with preserving, modernizing, and facilitating access to scientific collections of physical samples. Lindsay is the Program Coordinator for the National Geological and Geophysical Data Preservation Program and Director of the USGS Geological Materials Repository, home to the Core Research Center and the National Science Foundation Ice Core Facility.
 
-## Friday, July 7 at 1pm ET | Subdivisions and Crossroads: Identifying Communities in Data Citation Networks, Sara Lafia
+## Friday, July 7 at 1pm ET \| Subdivisions and Crossroads: Identifying Communities in Data Citation Networks, Sara Lafia
+
 Recording
 
 Abstract: Archives that provide access to high-quality research data offer an ideal setting to study the community impact of data sharing. In this talk, I will describe an analysis of the data citation network available through ICPSR – a social science data archive at the University of Michigan – which reflects patterns of data reuse in academic literature in research communities that use the same scientific datasets. These communities are characterized as disciplinary “subdivisions” or integrative “crossroads” that connect research areas. I show how data citation allows us to understand scholarly communication processes, such as the organization of scientific communities, and will discuss implications for the citation of samples.
