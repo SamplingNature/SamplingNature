@@ -50,6 +50,7 @@ minima:
 header_pages:
    - about.md
    - events.md
+   - workshops.md
    - team.md
    - working-groups.md
 
