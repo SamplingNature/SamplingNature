@@ -25,7 +25,10 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 ## Additional Workshops and Meetings
 
-### Team planning workshop (September 2023, Oakland, CA) - 
+### Team Planning Workshop (November 2022, New York)
+**Description:** We co-hosted an in person workshop at Lamont Doherty Earth Institute in November 2022 with the iSamples Project. During this workshop the iSamples team gave an update on the platform development, planned next steps and spent some time identifying outreach opportunities.   
+
+### Team planning workshop (September 2023, Oakland, CA)  
 **Description:** “The iPlaces Workshop”, hosted at the California Digital Library in Oakland, CA, brought together an interdisciplinary team from the iSamples, Sampling Nature, and FAIR Island projects to develop the framework for iPlaces — a visionary platform for place-based open science. Based on feedback and learning from the Sampling Nature RCN, this meeting focused on the sample infrastructure needs for connecting samples back to the places they originate. The meeting also focused on connecting the required legal and social documentation needed to prove ethical sampling. 
 
 ### Biocode - iPlaces Workshop (March 18-22, 2024, Moorea, French Polynesia) 
