@@ -8,16 +8,6 @@ The Sampling Nature Research Coordination Network (RCN) creates connections acro
 
 ![](images/Green and White Minimalist Photo Collage Banner.png)
 
--   [Mo'orea, French Polynesia | March 21-22, 2022]
-
--   [Tucson, Arizona \| May 8-9, 2023]
-
--   [New York City, NY \| December 6-7, 2023]
-
--   [Washington, D.C. \| May 29-31, 2024 Washington, D.C]
-
--   [Other Meetings]
-
 ## Mo'orea, French Polynesia \| March 21-22, 2022
 
 **Theme:** Water, Rivers, Coasts, and Oceans \|(Co-located with the Genomic Standards Consortium and Island Sampling Day)
